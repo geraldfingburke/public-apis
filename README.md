@@ -7,18 +7,6 @@ I'm going to be working through the existing listings and updating/removing depr
 Contributions are open and welcome, just follow the existing styling or your PR will be rejected.
 <br >
 
-<p>
-    <a href="https://apilayer.com">
-        <div>
-            <img src=".github/cs1586-APILayerLogoUpdate2022-LJ_v2-HighRes.png" width="100%" alt="APILayer Logo" />
-        </div>
-    </a>
-  </p>
-
-[APILayer](https://apilayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo) is the fastest way to integrate APIs into any product. There are a lot of APIs available at [APILayer Marketplace](https://apilayer.com/#bestSellers&utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo).
-
-<br >
-
 ## Learn more about Public APIs
 
 <strong>Get Involved</strong>
